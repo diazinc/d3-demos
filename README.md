@@ -1,4 +1,4 @@
-# d3-visualization
+# D3 demos in Dashboard
 This is a d3.js project that has different data visualization charts like Hierarchy chart, High chart, Bubble chart.
 ## Run
 You can run this project directly using index.html. But in this case, you can't see the treechart in "RESUME" page.
